@@ -1,5 +1,8 @@
-# decred price gnome ticket 
+# decred gnome price ticker
 
-Gnome 3 desktop ticker for decred price with Python and argos. Rename to decred.1r.60s.py and put in ~/.config/argos
+Get decred price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/decred-price-gnome-ticket/](https://codesharedot.github.io/decred-price-gnome-ticket/)
 
-https://pythonbasics.org
+decred price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to decred.1r60s.py and put in ~/.config/argos
